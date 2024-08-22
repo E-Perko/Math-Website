@@ -17,8 +17,13 @@ h2{
   border-radius: 8px;
 }
 p{
-  padding: 5px;
+  padding: 8px;
+  font-size: 20px;
 }
 img {
   float: left;
+  background-color: #b6d6e3;
+  border: 2px solid #103b4d;
+  padding: 5px;
+  border-radius: 15px;
 }
