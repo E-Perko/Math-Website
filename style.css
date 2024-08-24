@@ -1,6 +1,9 @@
 body {
   background-color: #daedf5;
   font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 h1{
   color: #103b4d;
@@ -20,10 +23,13 @@ p{
   padding: 8px;
   font-size: 20px;
 }
+div{
+  font-size: 20px;
+}
 img {
-  float: left;
   background-color: #b6d6e3;
   border: 2px solid #103b4d;
-  padding: 5px;
+  width: min(45%, 400px);
+  padding: 8px;
   border-radius: 15px;
 }
